@@ -1,11 +1,13 @@
 ### Hi there 👋
 hello I'm younes ...
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
-# Younes Ahmed
+# Younesak
 *Software Engineering Student | 42 Network*
 
-[GitHub](https://github.com/yourgithubusername) | [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile) | [Portfolio](https://yourportfolio.com)
+[GitHub]([https://github.com/yourgithubusername](https://github.com/Younes-AK/Younes-AK/edit/main/README.md)) | [Instagram]([https://www.linkedin.com/in/yourlinkedinprofile](https://www.instagram.com/anaw_88/)) | [facebook]([https://yourportfolio.com](https://www.facebook.com/younes.akazdaou.9))
 
 ## Summary
 
