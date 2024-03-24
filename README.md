@@ -2,7 +2,7 @@
 
 Hey, I'm Younes!
 
-https://badge.mediaplus.ma/binary/yakazdao
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/yakazdao" alt="yakazdao's 42 stats" /></a>
 
 ![Younes's GitHub stats](https://github-readme-stats.vercel.app/api?username=younes-ak&theme=dark&show_icons=true)
 
