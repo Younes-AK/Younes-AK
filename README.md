@@ -4,6 +4,8 @@ Hey, I'm Younes!
 
 ![Younes's GitHub stats](https://github-readme-stats.vercel.app/api?username=younes-ak&theme=dark&show_icons=true)
 
+https://badge.mediaplus.ma/binary/yakazdao
+
 ## Younes AK
 
 *Software Engineering Student | 42 Network*
